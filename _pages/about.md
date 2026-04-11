@@ -160,5 +160,5 @@ Publications & Technical Reports
 
 Open Source Contributions
 ======
-- 💻 **[UI-TARS](https://github.com/bytedance/ui-tars)** & **UI-TARS-Desktop**
+- 💻 **[UI-TARS](https://github.com/bytedance/ui-tars)** & **[UI-TARS-Desktop](https://github.com/bytedance/UI-TARS-desktop)**
 - 💻 **[GUI-ReWalk](https://github.com/bytedance/GUI-ReWalk)**
