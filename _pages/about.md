@@ -80,11 +80,11 @@ redirect_from:
 <h1 class="main-heading">👋 Hi there, I'm Taoran Lu</h1>
 <p class="update-time">last update: 2026.04</p>
 
-I am an **AI Multimodal Data Tech Expert** currently working at **ByteDance**. My primary focus is on **Synthetic Data** & **OmniEval for LLM & Robotics**. I have extensive experience in data synthesis and model evaluation, especially for GUI-Agents, CodeAgents, and Embodied AI.
+I am a **Senior Data Technologist, Multimodal LLMs** currently working at **ByteDance**. My primary focus is on **Synthetic Data** & **OmniEval for LLM & Robotics**. I have extensive experience in data synthesis and model evaluation, especially for GUI-Agents, CodeAgents, and Embodied AI.
 
 Latest News
 ======
-- 🚀 **[2025.04 - Present]** Joined **ByteDance** as an AI Multimodal Data Tech Expert, focusing on GUI-Agent data synthesis and evaluation.
+- 🚀 **[2025.04 - Present]** Joined **ByteDance** as a Senior Data Technologist, Multimodal LLMs, focusing on GUI-Agent data synthesis and evaluation.
 - 🏆 **[2023.07 - 2025.03]** Worked at **Lightwheel.AI** as a Perception Algorithm Engineer, specializing in Embodied AI data engineering.
 
 Experiences
@@ -95,12 +95,12 @@ Experiences
       <div class="experience-info">
           <strong>ByteDance</strong><br>
           2025.04 - Present<br>
-          <em>AI Multimodal Data Tech Expert</em>
+          <em>Senior Data Technologist, Multimodal LLMs</em>
       </div>
   </div>
 
   <div class="experience-card">
-      <img src="https://avatars.githubusercontent.com/u/144707255?v=4" alt="Lightwheel.AI" class="experience-logo">
+      <img src="/images/lightwheel.jpeg" alt="Lightwheel.AI" class="experience-logo">
       <div class="experience-info">
           <strong>Lightwheel.AI</strong><br>
           2023.07 - 2025.03<br>
@@ -113,7 +113,7 @@ Education
 ======
 <div class="experience-container">
   <div class="experience-card">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Beijing_Institute_of_Technology_logo.svg/512px-Beijing_Institute_of_Technology_logo.svg.png" alt="BIT" class="experience-logo">
+      <img src="/images/BIT.png" alt="BIT" class="experience-logo">
       <div class="experience-info">
           <strong>Beijing Institute of Technology</strong><br>
           2021 - 2024<br>
@@ -122,7 +122,7 @@ Education
   </div>
 
   <div class="experience-card">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Harbin_Engineering_University_logo.svg/512px-Harbin_Engineering_University_logo.svg.png" alt="HEU" class="experience-logo">
+      <img src="/images/HEU.webp" alt="HEU" class="experience-logo">
       <div class="experience-info">
           <strong>Harbin Engineering University</strong><br>
           2017 - 2021<br>

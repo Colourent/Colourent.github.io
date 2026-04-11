@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Beijing_Institute_of_Technology_logo.svg/512px-Beijing_Institute_of_Technology_logo.svg.png" width="20" style="vertical-align: middle; margin-right: 5px;"> **M.S. in Image Processing / Optical Engineering**, Beijing Institute of Technology, 2021 - 2024
-* <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Harbin_Engineering_University_logo.svg/512px-Harbin_Engineering_University_logo.svg.png" width="20" style="vertical-align: middle; margin-right: 5px;"> **B.S. in Optoelectronic Information Science and Engineering**, Harbin Engineering University, 2017 - 2021
+* <img src="/images/BIT.png" width="20" style="vertical-align: middle; margin-right: 5px;"> **M.S. in Image Processing / Optical Engineering**, Beijing Institute of Technology, 2021 - 2024
+* <img src="/images/HEU.webp" width="20" style="vertical-align: middle; margin-right: 5px;"> **B.S. in Optoelectronic Information Science and Engineering**, Harbin Engineering University, 2017 - 2021
 
 Work experience
 ======
-* **April 2025 - Present: AI Multimodal Data Tech Expert**
+* **April 2025 - Present: Senior Data Technologist, Multimodal LLMs**
   * <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="20" style="vertical-align: middle; margin-right: 5px;"> ByteDance
   * Responsible for Data Engineering Pipeline for Seed Models (Seed 1.8 & 2.0).
   * Led the 0-1 GUI-Agent data synthesis framework (GUI-ReWalk & GUI-Diver).
   * Evaluated and managed GUI-Agent data collections, creating high-quality datasets for GUI-VIT and COT data enhancement.
 
 * **July 2023 - March 2025: Perception Algorithm Engineer**
-  * <img src="https://avatars.githubusercontent.com/u/144707255?v=4" width="20" style="vertical-align: middle; margin-right: 5px;"> Lightwheel.AI
+  * <img src="/images/lightwheel.jpeg" width="20" style="vertical-align: middle; margin-right: 5px;"> Lightwheel.AI
   * Focused on Embodied AI Data Engineering and pipeline automation for attributes inspection.
   * Conducted model training & evaluation using Real Data + Synthetic Data Co-Training strategies.
   * Explored 3DGS to render scenes, reducing Sim2Real gap.

@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### <img src="https://avatars.githubusercontent.com/u/4158466?v=4" width="30" style="vertical-align: middle; margin-right: 10px;">ByteDance (2025.04 - Present)
-**AI Multimodal Data Tech Expert**
+**Senior Data Technologist, Multimodal LLMs**
 - **Seed1.8 & 2.0 Data Engineering:** 
   - Built a 0-1 data pipeline for Seed models during the SFT phase, covering data collection, compliance cleaning, automated quality evaluation, and bad pattern filtering. Processed TB-level data.
 - **GUI-Agent Data Synthesis:** 
@@ -23,7 +23,7 @@ author_profile: true
 - **CodeAgent Data Synthesis:**
   - Constructed an expert pool, defined annotation standards, and generated automated data synthesis pipelines based on 2,000 high-difficulty human-annotated seed problems. Delivered over 1,000 synthetic problems with significant model improvements.
 
-### <img src="https://avatars.githubusercontent.com/u/144707255?v=4" width="30" style="vertical-align: middle; margin-right: 10px;">Lightwheel.AI (2023.07 - 2025.03)
+### <img src="/images/lightwheel.jpeg" width="30" style="vertical-align: middle; margin-right: 10px;">Lightwheel.AI (2023.07 - 2025.03)
 **Perception Algorithm Engineer**
 - **Embodied AI Data Engineering:**
   - Built automated attribute inspection pipelines for synthetic assets (e.g., collision boxes, USD formats, physical attributes).
