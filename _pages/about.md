@@ -21,6 +21,13 @@ redirect_from:
     .experience-card:hover {
         box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     }
+    .experience-logo {
+        width: 50px;
+        height: 50px;
+        margin-right: 15px;
+        border-radius: 8px;
+        object-fit: contain;
+    }
     .experience-info {
         font-size: 15px;
         color: #494E52;
@@ -78,12 +85,13 @@ I am an **AI Multimodal Data Tech Expert** currently working at **ByteDance**. M
 Latest News
 ======
 - 🚀 **[2025.04 - Present]** Joined **ByteDance** as an AI Multimodal Data Tech Expert, focusing on GUI-Agent data synthesis and evaluation.
-- 🏆 **[2023.07 - 2025.03]** Worked at **Guanglun Intelligence** as a Perception Algorithm Engineer, specializing in Embodied AI data engineering.
+- 🏆 **[2023.07 - 2025.03]** Worked at **Lightwheel.AI** as a Perception Algorithm Engineer, specializing in Embodied AI data engineering.
 
 Experiences
 ======
 <div class="experience-container">
   <div class="experience-card">
+      <img src="https://avatars.githubusercontent.com/u/4158466?v=4" alt="ByteDance" class="experience-logo">
       <div class="experience-info">
           <strong>ByteDance</strong><br>
           2025.04 - Present<br>
@@ -92,8 +100,9 @@ Experiences
   </div>
 
   <div class="experience-card">
+      <img src="https://avatars.githubusercontent.com/u/144707255?v=4" alt="Lightwheel.AI" class="experience-logo">
       <div class="experience-info">
-          <strong>Guanglun Intelligence</strong><br>
+          <strong>Lightwheel.AI</strong><br>
           2023.07 - 2025.03<br>
           <em>Perception Algorithm Engineer</em>
       </div>
@@ -102,10 +111,25 @@ Experiences
 
 Education
 ======
-- **Beijing Institute of Technology** (2021 - 2024)<br>
-  *M.S. in Image Processing / Optical Engineering*
-- **Harbin Engineering University** (2017 - 2021)<br>
-  *B.S. in Optoelectronic Information Science and Engineering*
+<div class="experience-container">
+  <div class="experience-card">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Beijing_Institute_of_Technology_logo.svg/512px-Beijing_Institute_of_Technology_logo.svg.png" alt="BIT" class="experience-logo">
+      <div class="experience-info">
+          <strong>Beijing Institute of Technology</strong><br>
+          2021 - 2024<br>
+          <em>M.S. in Image Processing / Optical Engineering</em>
+      </div>
+  </div>
+
+  <div class="experience-card">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Harbin_Engineering_University_logo.svg/512px-Harbin_Engineering_University_logo.svg.png" alt="HEU" class="experience-logo">
+      <div class="experience-info">
+          <strong>Harbin Engineering University</strong><br>
+          2017 - 2021<br>
+          <em>B.S. in Optoelectronic Information Science and Engineering</em>
+      </div>
+  </div>
+</div>
 
 Projects & Work
 ======
@@ -123,18 +147,18 @@ Projects & Work
 
 <div class="project-item">
 <div class="project-title">Embodied AI Data Engineering & Sim2Real</div>
-<div class="project-meta">Guanglun Intelligence | 2023 - 2025</div>
+<div class="project-meta">Lightwheel.AI | 2023 - 2025</div>
 <p>Built automated attribute inspection pipelines for synthetic assets (e.g., collision boxes, USD formats, physical attributes). Explored Co-Training with Real Data + Synthetic Data, significantly improving model performance by reducing the Sim2Real gap using 3DGS rendering.</p>
 </div>
 
 Publications & Technical Reports
 ======
-- 📄 **Seed1.8 Model Card**: Towards Generalized Real-World Agency
-- 📄 **UI-TARS-2 Technical Report**: Advancing GUI Agent with Multi-Turn Reinforcement Learning
-- 📄 **GUI-ReWalk**: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning
-- 📄 **GUI-Diver**: Towards Verifiable Synthetic Experience for GUI-Agent Reinforcement Learning
+- 📄 **[Seed1.8 Model Card: Towards Generalized Real-World Agency](https://arxiv.org/abs/2603.20633)**
+- 📄 **[UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.02544)**
+- 📄 **[GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](https://openreview.net/pdf?id=a73156ee9b52468fef398bc6dfd28bfdd3eef75f)**
+- 📄 **GUI-Diver: Towards Verifiable Synthetic Experience for GUI-Agent Reinforcement Learning**
 
 Open Source Contributions
 ======
-- 💻 **UI-TARS** & **UI-TARS-Desktop**
-- 💻 **GUI-ReWalk**
+- 💻 **[UI-TARS](https://github.com/bytedance/ui-tars)** & **UI-TARS-Desktop**
+- 💻 **[GUI-ReWalk](https://github.com/bytedance/GUI-ReWalk)**

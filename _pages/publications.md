@@ -9,7 +9,7 @@ author_profile: true
 
 Here are my recent publications and technical reports:
 
-* **Seed1.8 Model Card**: Towards Generalized Real-World Agency 
-* **UI-TARS-2 Technical Report**: Advancing GUI Agent with Multi-Turn Reinforcement Learning
-* **GUI-ReWalk**: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning 
-* **GUI-Diver**: Towards Verifiable Synthetic Experience for GUI-Agent Reinforcement Learning
+* **[Seed1.8 Model Card: Towards Generalized Real-World Agency](https://arxiv.org/abs/2603.20633)** 
+* **[UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.02544)**
+* **[GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](https://openreview.net/pdf?id=a73156ee9b52468fef398bc6dfd28bfdd3eef75f)** 
+* **GUI-Diver: Towards Verifiable Synthetic Experience for GUI-Agent Reinforcement Learning**
