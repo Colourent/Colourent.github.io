@@ -85,6 +85,8 @@ I am a **Senior Data Technologist, Multimodal LLMs** currently working at **Byte
 Latest News
 ======
 - 🎉 **[2026.06]** Our work **GUI-ReWalk** has been accepted by **IJCAI 2026**.
+- 🔥 **[2026.02]** Released the **Seed2.0** model series, advancing state-of-the-art multimodal agent capabilities.
+- 🔥 **[2025.11]** Released the **Seed1.8** model, demonstrating generalized real-world agency.
 - 🚀 **[2025.04 - Present]** Joined **ByteDance** as a Senior Data Technologist, Multimodal LLMs, focusing on GUI-Agent data synthesis and evaluation.
 - 🏆 **[2023.07 - 2025.03]** Worked at **Lightwheel.AI** as a Perception Algorithm Engineer, specializing in Embodied AI data engineering.
 
@@ -154,6 +156,7 @@ Projects & Work
 
 Publications & Technical Reports
 ======
+- 📄 **[Seed2.0 Model Card: Towards Generalized Real-World Agency](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)**
 - 📄 **[Seed1.8 Model Card: Towards Generalized Real-World Agency](https://arxiv.org/abs/2603.20633)**
 - 📄 **[UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.02544)**
 - 📄 **[GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning](https://github.com/bytedance/GUI-ReWalk)**
