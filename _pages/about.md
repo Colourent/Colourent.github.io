@@ -136,9 +136,9 @@ Education
 Projects & Work
 ======
 <div class="project-item">
-<div class="project-title">Seed1.8 & 2.0 Data Engineering Pipeline</div>
-<div class="project-meta">ByteDance | 2025 - Present</div>
-<p>Built a 0-1 data pipeline for Seed models during the SFT phase, covering data collection, compliance cleaning, automated quality evaluation, and bad pattern filtering. Processed TB-level data, providing high-quality, compliant training data for Seed1.8 and Seed2.0.</p>
+<div class="project-title">CodeAgent Data Synthesis (CodeDataScaling)</div>
+<div class="project-meta">ByteDance | 2026.01 - Present</div>
+<p>Led data synthesis optimization for CodeAgents. Developed <strong>CodeDataScaling</strong>, an RL data synthesis framework that significantly improved model reasoning and execution capabilities in terminal environments, helping the Seed model achieve <strong>65 points on TerminalBench2</strong>.</p>
 </div>
 
 <div class="project-item">
@@ -148,9 +148,9 @@ Projects & Work
 </div>
 
 <div class="project-item">
-<div class="project-title">CodeAgent Data Synthesis (CodeDataScaling)</div>
-<div class="project-meta">ByteDance | 2025 - Present</div>
-<p>Led data synthesis optimization for CodeAgents. Developed <strong>CodeDataScaling</strong>, an RL data synthesis framework that significantly improved model reasoning and execution capabilities in terminal environments, helping the Seed model achieve <strong>65 points on TerminalBench2</strong>.</p>
+<div class="project-title">Seed1.8 & 2.0 Data Engineering Pipeline</div>
+<div class="project-meta">ByteDance | 2025 - 2026.04</div>
+<p>Built a 0-1 data pipeline for Seed models during the SFT phase, covering data collection, compliance cleaning, automated quality evaluation, and bad pattern filtering. Processed TB-level data, providing high-quality, compliant training data for Seed1.8 and Seed2.0.</p>
 </div>
 
 <div class="project-item">
