@@ -144,7 +144,13 @@ Projects & Work
 <div class="project-item">
 <div class="project-title">GUI-Agent Data Synthesis (GUI-ReWalk & GUI-Diver)</div>
 <div class="project-meta">ByteDance | 2025 - Present</div>
-<p>Designed and implemented a GUI-Agent training data synthesis framework from scratch. Delivered over 5 million cross-platform, multi-app agent trace training data via <strong>GUI-ReWalk</strong>. Developed <strong>GUI-Diver</strong>, the first end-to-end RL synthesis approach for GUI-Agents, enhancing verifiable problem-solving capabilities.</p>
+<p>Designed and implemented a GUI-Agent training data synthesis framework from scratch. Delivered over 5 million cross-platform, multi-app agent trace training data via <strong>GUI-ReWalk</strong>. Developed <strong>GUI-Diver</strong>, the first end-to-end RL synthesis approach for GUI-Agents, enhancing verifiable problem-solving capabilities. <strong>This RL data synthesis work helped internal models achieve SOTA performance (76 points) on OSWorld.</strong></p>
+</div>
+
+<div class="project-item">
+<div class="project-title">CodeAgent Data Synthesis (CodeDataScaling)</div>
+<div class="project-meta">ByteDance | 2025 - Present</div>
+<p>Led data synthesis optimization for CodeAgents. Developed <strong>CodeDataScaling</strong>, an RL data synthesis framework that significantly improved model reasoning and execution capabilities in terminal environments, helping the Seed model achieve <strong>65 points on TerminalBench2</strong>.</p>
 </div>
 
 <div class="project-item">
