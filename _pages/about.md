@@ -78,12 +78,13 @@ redirect_from:
 </style>
 
 <h1 class="main-heading">👋 Hi there, I'm Taoran Lu</h1>
-<p class="update-time">last update: 2026.04</p>
+<p class="update-time">last update: 2026.06</p>
 
 I am a **Senior Data Technologist, Multimodal LLMs** currently working at **ByteDance**. My primary focus is on **Synthetic Data** & **OmniEval for LLM & Robotics**. I have extensive experience in data synthesis and model evaluation, especially for GUI-Agents, CodeAgents, and Embodied AI.
 
 Latest News
 ======
+- 🎉 **[2026.06]** Our work **GUI-ReWalk** has been accepted by **IJCAI 2026**.
 - 🚀 **[2025.04 - Present]** Joined **ByteDance** as a Senior Data Technologist, Multimodal LLMs, focusing on GUI-Agent data synthesis and evaluation.
 - 🏆 **[2023.07 - 2025.03]** Worked at **Lightwheel.AI** as a Perception Algorithm Engineer, specializing in Embodied AI data engineering.
 
