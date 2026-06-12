@@ -87,8 +87,7 @@ Latest News
 - 🎉 **[2026.06]** Our work **GUI-ReWalk** has been accepted by **IJCAI 2026**.
 - 🔥 **[2026.02]** Released the **Seed2.0** model series, advancing state-of-the-art multimodal agent capabilities.
 - 🔥 **[2025.11]** Released the **Seed1.8** model, demonstrating generalized real-world agency.
-- 🚀 **[2025.04 - Present]** Joined **ByteDance** as a Senior Data Technologist, Multimodal LLMs, focusing on GUI-Agent data synthesis and evaluation.
-- 🏆 **[2023.07 - 2025.03]** Worked at **Lightwheel.AI** as a Perception Algorithm Engineer, specializing in Embodied AI data engineering.
+- 🔥 **[2025.09]** Released **UI-TARS-2**, advancing GUI Agent with Multi-Turn Reinforcement Learning.
 
 Experiences
 ======
