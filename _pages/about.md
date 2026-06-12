@@ -80,7 +80,7 @@ redirect_from:
 <h1 class="main-heading">👋 Hi there, I'm Taoran Lu</h1>
 <p class="update-time">last update: 2026.06</p>
 
-I am a **Senior Data Technologist, Multimodal LLMs** currently working at **ByteDance**. My primary focus is on **GeneralAgent** and **Coding LLM**, along with **Synthetic Data** & **OmniEval**. I have extensive experience in data synthesis and model evaluation, especially for GUI-Agents, CodeAgents, and Embodied AI.
+I am a **Senior Data Technologist, Multimodal LLMs** currently working at **ByteDance**. My primary focus is on **GeneralAgent** and **Coding LLM**, along with **Synthetic Data** & **OmniEval**. I have extensive experience in data synthesis and model evaluation, especially for GUI-Agents, CodeAgents, and Embodied AI. The data synthesis pipelines I designed fully support multiple training stages including **CT, MidTrain, SFT, and RLVR**.
 
 Latest News
 ======
